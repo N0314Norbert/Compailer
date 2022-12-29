@@ -1,0 +1,13 @@
+F:\prog\CompailerProject\CompailerProject\bin\Debug\CompailerProject.exe.config
+F:\prog\CompailerProject\CompailerProject\bin\Debug\CompailerProject.exe
+F:\prog\CompailerProject\CompailerProject\bin\Debug\CompailerProject.pdb
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.csproj.AssemblyReference.cache
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.Form1.resources
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.Properties.Resources.resources
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.csproj.GenerateResource.cache
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.csproj.CoreCompileInputs.cache
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.exe
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.pdb
+F:\prog\CompailerProject\CompailerProject\bin\Debug\Newtonsoft.Json.dll
+F:\prog\CompailerProject\CompailerProject\bin\Debug\Newtonsoft.Json.xml
+F:\prog\CompailerProject\CompailerProject\obj\Debug\CompailerProject.csproj.CopyComplete
